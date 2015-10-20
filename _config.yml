@@ -1,4 +1,4 @@
-name: null
+name: Centurion
 favicon: null
 layout_spectrum: 0.37549257138743997
 typography_spectrum: 0.520869567990303
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.6992492587305605
+  brandStrength: 0.5
   lightness: 0.8179828259162605
   saturation: 0.006753937108442187
   rhythmicContrast: 0.4226754871197045
