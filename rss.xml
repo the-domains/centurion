@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Centurion]]></title>
+        <description><![CDATA[Centurion]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 20 Oct 2015 08:34:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hallo, hier ist die Centurion Seite, das Zuhause von professionellem Network Marketing. </p>]]></description>
+            <link>undefined7cf8b395-0005-4715-a98f-d405769e0bb3/index.html</link>
+            <guid isPermaLink="false">7cf8b395-0005-4715-a98f-d405769e0bb3</guid>
+            <pubDate>Tue, 20 Oct 2015 08:34:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
