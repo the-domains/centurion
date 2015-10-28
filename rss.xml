@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Centurion]]></title>
         <description><![CDATA[Centurion]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/centurion/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Oct 2015 08:34:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 28 Oct 2015 08:08:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/centurion/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/centurion/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">f5fe6d70-6260-4777-a35e-34cd1ea30132</guid>
+            <pubDate>Wed, 28 Oct 2015 08:08:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hallo, hier ist die Centurion Seite, das Zuhause von professionellem Network Marketing. </p>]]></description>
-            <link>undefined7cf8b395-0005-4715-a98f-d405769e0bb3/index.html</link>
+            <link>https://thegrid.ai/centurion/7cf8b395-0005-4715-a98f-d405769e0bb3/index.html</link>
             <guid isPermaLink="false">7cf8b395-0005-4715-a98f-d405769e0bb3</guid>
             <pubDate>Tue, 20 Oct 2015 08:34:18 GMT</pubDate>
         </item>
